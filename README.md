@@ -1,5 +1,5 @@
 # bad-apple-discord
-Play Bad Apple on Discord
+Play Bad Apple on Discord as ASCII characters
 
 ## modules:
 - opencv-python
