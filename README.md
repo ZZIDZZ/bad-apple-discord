@@ -8,4 +8,5 @@ Play Bad Apple on Discord
 
 ### note:
 - replace TOKEN with your discord bot token
-- you can change the video by replacing the video file name in source code, and replacing the video file at the same directory
+- you can change the video by replacing the video file name in source code, and replacing the video file at the same directory. For example: `
+cap = cv2.VideoCapture("newVideoFilename")`
