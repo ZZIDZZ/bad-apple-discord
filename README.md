@@ -1,2 +1,7 @@
 # bad-apple-discord
-<h1>Play Bad Apple on Discord
+## Play Bad Apple on Discord
+
+## modules:
+- opencv-python
+- discord.py
+- pillow
